@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Bar = styled.div`
     position: absolute;
     bottom: -85px;
-    background: #c7f3ff;
+    background: rgb(21, 57, 67);
     height: 85px;
     text-align:center;
     width:100%;

@@ -16,7 +16,7 @@ import Ultras from './pages/Ultras';
 import Wavedashing from './pages/Wavedashing';
 import Wallbouncing from './pages/Wallbouncing'
 import Demodashing from './pages/Demodashing'
- 
+
 function App() {
     return (
         <Router>
